@@ -1,5 +1,5 @@
 LastName	FirstName	ID	Email				Phone		HireDate	Classification	Role	Salary
-Harper      Larry		4066	Larry.Harper@email.edu		520-555-4066	5/5/2021	Full		Staff	65000.00
+Harper		Larry		4066	Larry.Harper@email.edu		520-555-4066	5/5/2021	Full		Staff	65000.00
 Benton		Ryan		4071	Ryan.Benton@email.edu		520-555-4071	10/6/2020	Full		Staff	56000.00
 Farrell		Dave		4009	Dave.Farrell@email.edu		520-555-4009	10/6/2018	Part		Staff	34000.00
 Stone		Matthew		4041	Matthew.Stone@email.edu		520-555-4041	8/23/2017	Full		Faculty	78000.00
